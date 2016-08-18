@@ -1,0 +1,14 @@
+layout_spectrum: 0.9453963
+color:
+  saturation: 0.8207885
+  brandStrength: 0.7921147
+  lightness: 0.4605735
+  brandColors:
+    - '#FFFFFF'
+    - '#79A246'
+    - '#6D6E70'
+    - '#1E8AB8'
+    - '#B2B2B4'
+  rhythmicContrast: 0.6021506
+typography_spectrum: 0.8893357
+name: MalbathHolding
